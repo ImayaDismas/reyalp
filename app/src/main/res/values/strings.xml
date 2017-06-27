@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Player</string>
+
+    <string name="page_1">Stream</string>
+    <string name="page_2">Video</string>
+    <string name="page_3">Audio</string>
+    <string name="page_4">Recently Played</string>
+    <string name="page_5">Settings</string>
+    <string name="page_6">About</string>
+
+    <string-array name="navDrawerItems">
+        <item>Stream</item>
+        <item>Video</item>
+        <item>Audio</item>
+        <item>Recently Played</item>
+        <item>Settings</item>
+        <item>About</item>
+    </string-array>
+
+    <string-array name="navDrawerIcons">
+        <item>@drawable/ic_ondemand_video_black_24dp</item>
+        <item>@drawable/ic_personal_video_black_24dp</item>
+        <item>@drawable/ic_audiotrack_black_24dp</item>
+        <item>@drawable/ic_slow_motion_video_black_24dp</item>
+        <item>@drawable/ic_settings_black_24dp</item>
+        <item>@drawable/ic_info_outline_black_24dp</item>
+    </string-array>
+
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+</resources>
